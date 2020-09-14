@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Spalsh-API/static/css/main.6f840240.chunk.css",
+    "main.js": "/Spalsh-API/static/js/main.80ec9a50.chunk.js",
+    "main.js.map": "/Spalsh-API/static/js/main.80ec9a50.chunk.js.map",
+    "runtime-main.js": "/Spalsh-API/static/js/runtime-main.6cfff646.js",
+    "runtime-main.js.map": "/Spalsh-API/static/js/runtime-main.6cfff646.js.map",
+    "static/js/2.26d07d40.chunk.js": "/Spalsh-API/static/js/2.26d07d40.chunk.js",
+    "static/js/2.26d07d40.chunk.js.map": "/Spalsh-API/static/js/2.26d07d40.chunk.js.map",
+    "index.html": "/Spalsh-API/index.html",
+    "precache-manifest.d8c104d7ca21b510c951b198b457a8b4.js": "/Spalsh-API/precache-manifest.d8c104d7ca21b510c951b198b457a8b4.js",
+    "service-worker.js": "/Spalsh-API/service-worker.js",
+    "static/css/main.6f840240.chunk.css.map": "/Spalsh-API/static/css/main.6f840240.chunk.css.map",
+    "static/js/2.26d07d40.chunk.js.LICENSE.txt": "/Spalsh-API/static/js/2.26d07d40.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6cfff646.js",
+    "static/js/2.26d07d40.chunk.js",
+    "static/css/main.6f840240.chunk.css",
+    "static/js/main.80ec9a50.chunk.js"
+  ]
+}
