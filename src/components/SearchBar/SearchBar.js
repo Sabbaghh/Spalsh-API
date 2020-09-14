@@ -15,7 +15,7 @@ class SearchBar extends Component {
         return (
             <div className="SearchBar">
                 <form onSubmit={this.onFormSubmit}>
-                    <label htmlFor="search">Search for cars</label>
+                    <label htmlFor="search">Search : </label>
                     <input name="search" type="text"
                         onChange={(e) => this.setState({ term: e.target.value })}
                         value={this.state.term} />
